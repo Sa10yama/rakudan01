@@ -1,0 +1,7 @@
+{"_id":"00E06UsjQ4lT3rPe","name":"00.概要と目次","type":"JournalEntry","sort":500000,"flags":{},"parent":null,"sorting":"a","color":"#963f41"}
+{"name":"控え","type":"Scene","sort":400000,"flags":{},"parent":null,"sorting":"a","color":"","_id":"8iCI7eRpMtAp6kXT"}
+{"_id":"GW2OgelymBdaj0bT","name":"進行用","type":"Scene","sort":300000,"flags":{},"parent":null,"sorting":"a","color":"#85327e"}
+{"name":"敵","type":"Actor","sort":null,"flags":{},"parent":null,"sorting":"a","color":"#ad411d","_id":"d63zyX21gjM3Pqxh"}
+{"_id":"fez1J5Ksmv5zA9HD","name":"マニュアル(簡易版)","type":"JournalEntry","sort":700000,"flags":{},"parent":null,"sorting":"a","color":"#bf821a"}
+{"_id":"gPHtoO6QGJkGa2ZI","name":"ギミックタイル(PL開示)","type":"JournalEntry","sort":200000,"flags":{},"parent":null,"sorting":"a","color":"#307cb6"}
+{"_id":"rHka9FWkkvR4FO5Z","name":"01.各階層情報","type":"JournalEntry","sort":600000,"flags":{},"parent":null,"sorting":"a","color":"#307cb6"}
